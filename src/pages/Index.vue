@@ -7,7 +7,7 @@
             class="bg-cover bg-top h-full relative"
             style="background-image: url(images/karen.jpg)"
           >
-            <div class="absolute bottom-0 px-4 pb-1 md:p-16 md:static">
+            <div class="absolute bottom-0 px-4 pb-1">
               <h1 class="text-4xl md:text-6xl w-max bg-black text-white px-2 md:px-4">Karen Benitez</h1>
               <h3 class="text-xl md:text-3xl px-2 md:px-4">Nurse</h3>
             </div>

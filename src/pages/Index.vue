@@ -4,7 +4,7 @@
       <full-page ref="fullpage" :options="options" id="fullpage">
         <div class="section">
           <div
-            class="bg-cover bg-top h-full relative"
+            class="bg-cover bg-right h-full relative"
             style="background-image: url(images/karen.jpg)"
           >
             <div class="absolute bottom-0 px-4 pb-1">
